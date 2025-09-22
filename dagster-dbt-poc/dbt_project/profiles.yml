@@ -1,0 +1,8 @@
+# Purpose: dbt connection configuration for DuckDB. Key line: path defines where DuckDB file is created.
+analytics:
+  outputs:
+    dev:
+      type: duckdb
+      path: './analytics.duckdb'
+      threads: 4
+  target: dev

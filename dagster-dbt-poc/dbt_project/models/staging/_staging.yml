@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: stg_hello_world
+    description: "Staging hello world model"
+    columns:
+      - name: created_at
+        description: "Timestamp of creation"
+      - name: message
+        description: "Hello world message"
+      - name: run_date
+        description: "Date of the run"

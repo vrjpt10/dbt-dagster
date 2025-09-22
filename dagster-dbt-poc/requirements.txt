@@ -1,0 +1,5 @@
+dagster>=1.5.0
+dagit>=1.5.0
+dagster-dbt>=0.21.0
+dbt-core>=1.6.0
+dbt-duckdb>=1.6.0

@@ -1,0 +1,6 @@
+user_id,username,email,created_at,country,age
+1,user_1,user_1@example.com,2023-01-01,USA,25
+2,user_2,user_2@example.com,2023-01-02,UK,30
+3,user_3,user_3@example.com,2023-01-03,Canada,35
+4,user_4,user_4@example.com,2023-01-04,Australia,40
+5,user_5,user_5@example.com,2023-01-05,Germany,45

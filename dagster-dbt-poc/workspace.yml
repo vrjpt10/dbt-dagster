@@ -1,0 +1,5 @@
+# Purpose: Tells Dagster where to find your repository. Key line: package_name must match your Python package.
+load_from:
+  - python_package:
+      package_name: dagster_dbt_poc.repository
+      attribute: repository
